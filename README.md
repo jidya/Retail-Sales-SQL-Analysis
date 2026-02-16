@@ -26,3 +26,13 @@ The analysis demonstrates how SQL can be used to:
 - Identify peak performance periods
 - Detect growth patterns
 - Support data-driven decision-making
+
+## 🔍 Key Findings
+
+- Sales showed clear monthly variation, indicating potential seasonal trends.
+- Several days performed significantly above average, highlighting peak performance periods.
+- 7-day moving average smoothed fluctuations and revealed underlying growth patterns.
+- Ranking analysis identified top-performing sales days.
+- Day-to-day change analysis exposed volatility in daily revenue.
+
+These insights demonstrate how SQL can be used not only for querying data but for extracting meaningful business intelligence.
