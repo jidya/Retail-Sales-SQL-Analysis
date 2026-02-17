@@ -43,7 +43,7 @@ These insights demonstrate how SQL can be used not only for querying data but fo
 Shows total revenue grouped by month to identify seasonality trends.
 
 <p align="center">
-  <img src="sales_by_month.png" width="60%">
+  <img src="sales_by_month.png" width="45%">
 </p>
 
 ---
@@ -52,7 +52,7 @@ Shows total revenue grouped by month to identify seasonality trends.
 Demonstrates use of CASE statement for performance categorization.
 
 <p align="center">
-  <img src="sorting.png" width="500">
+  <img src="sorting.png" width="45%">
 </p>
 
 ---
@@ -61,6 +61,6 @@ Demonstrates use of CASE statement for performance categorization.
 Illustrates trend smoothing using window functions.
 
 <p align="center">
-  <img src="moving_avg.png" width="60%">
+  <img src="moving_avg.png" width="45%">
 </p>
 
