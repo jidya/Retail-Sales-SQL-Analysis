@@ -38,4 +38,6 @@ The analysis demonstrates how SQL can be used to:
 These insights demonstrate how SQL can be used not only for querying data but for extracting meaningful business intelligence.
 
 ## 📸 Sample Output
-![Sales by Month](sales by month.png)
+![Sales by Month](sales_by_month.png)
+![Sorting as High, Medium, Low](sorting.png)
+![Moving average by 7 days](moving_avg.png)
