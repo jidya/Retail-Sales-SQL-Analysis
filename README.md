@@ -36,3 +36,6 @@ The analysis demonstrates how SQL can be used to:
 - Day-to-day change analysis exposed volatility in daily revenue.
 
 These insights demonstrate how SQL can be used not only for querying data but for extracting meaningful business intelligence.
+
+## 📸 Sample Output
+![Sales by Month](sales by month.png)
